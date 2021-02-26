@@ -1,0 +1,4 @@
+Commit 1:
+-Added DefaultMarket.txt
+-Added background story summary of bosses from Region 2 to 7
+-Added Lore for Region 1 Boss, Master Roach
