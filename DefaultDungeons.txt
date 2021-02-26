@@ -1,4 +1,16 @@
-Region 1 :
+Region 1 : Acedia (Sloth)
+    Dungeons: 
+        1 
+        2
+        3
+        4
+        5
+        6
+        7
+        8
+        9
+        10 [Boss Dungeon | Waves: 1] ||| Boss Monster : Master Roach ||| Minions : 
+Region 2 : Envy (Invidia)
     Dungeons:
         1
         2
@@ -10,7 +22,7 @@ Region 1 :
         8
         9
         10
-Region 2 :
+Region 3 : Gula (Gluttony)
     Dungeons:
         1
         2
@@ -22,7 +34,7 @@ Region 2 :
         8
         9
         10
-Region 3 :
+Region 4 : Superbia (Pride)
     Dungeons:
         1
         2
@@ -34,7 +46,7 @@ Region 3 :
         8
         9
         10
-Region 4 :
+Region 5 : Avaritia (Greediness)
     Dungeons:
         1
         2
@@ -46,7 +58,7 @@ Region 4 :
         8
         9
         10
-Region 5 :
+Region 6 : Luxuria (Lust)
     Dungeons:
         1
         2
@@ -58,7 +70,7 @@ Region 5 :
         8
         9
         10
-Region 6 :
+Region 7 : Wrath (Ira)
     Dungeons:
         1
         2
@@ -70,7 +82,7 @@ Region 6 :
         8
         9
         10
-Region 7 :
+Region 8 : Doom
     Dungeons:
         1
         2
@@ -82,15 +94,24 @@ Region 7 :
         8
         9
         10
-Region 8 :
-    Dungeons:
-        1
-        2
-        3
-        4
-        5
-        6
-        7
-        8
-        9
-        10
+
+Bosses
+    Master Roach (Region 1)
+    Arme (Region 2)
+    Behind You (Region 3)
+    Gamadan (Region 4)
+    Orbtus (Region 5)
+    Shenpai (Region 6)
+    Fall (Region 7)
+    Lucis (Region 8)
+
+Story
+    Cube of Light Ark
+        Background Info: 
+            A Cube that used to hold all the powers of the world guarded by the chosen kings and their holy items. Eventually the people no longer live the right path 
+            and has forced these kings to save them but only to be failed by their own people. A suppose to be peaceful annual meeting of all the kings has been averted
+            by the death of their leader whose name is still unknown to this date.
+
+        Region 1:
+            There was once a king who lived truthfully and served everyone of his kingdom. His people had no fear for whatever problem would come to them. The king worked 
+            hard day and night, always serving his people 
